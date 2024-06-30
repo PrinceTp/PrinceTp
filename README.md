@@ -57,4 +57,4 @@ Here are some ideas to get you started:
 <!--METRICS -->
 
 <!-- <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p> -->
-<p align="left"><img src="metrics.plugin.habits.charts.svg" alt="Metrics" width="400"></p>
+<!-- <p align="left"><img src="metrics.plugin.habits.charts.svg" alt="Metrics" width="400"></p>  -->
