@@ -1,10 +1,7 @@
-## Hey 👋 What's up?
+## Hey!
 
 
-- 🔭 I’m currently working on a secret.
-- 🌱 Learning a little bit of everything.
-- 👯 Looking to collaborate on new and interesting projects.
-- ⚡ Fun fact: I prefer tab over space.
+Currently pursuing my B.Tech in Computer Science Engineering, aiming to specialize in backend engineering. I'm eager to collaborate on new projects where I can contribute and learn. Feel free to check out my projects!
 
 ### Reach me on:
 
@@ -17,7 +14,7 @@
   </a>
   <a href="https://github.com/PrinceTp" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
-### Stuff I know ;)
+### Stuff I know:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
