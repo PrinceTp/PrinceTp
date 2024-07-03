@@ -1,7 +1,7 @@
 ## Hey!
 
 
-Currently pursuing my B.Tech in Computer Science Engineering, aiming to specialize in backend engineering. I'm eager to collaborate on new projects where I can contribute and learn. Feel free to check out my projects!
+Currently pursuing my B.Tech in Computer Science Engineering, aiming to specialize in backend development. I'm eager to collaborate on new projects where I can contribute and learn. Feel free to check out my projects!
 
 ### Reach me on:
 
