@@ -1,7 +1,8 @@
 ## Hey!
 
 
-Currently pursuing my B.Tech in Computer Science Engineering, aiming to specialize in backend development. I'm eager to collaborate on new projects where I can contribute and learn. Feel free to check out my projects!
+B.E. graduate in Computer Science Engineering with experience building real-time applications through academic, freelance, and personal projects. Passionate about building practical software solutions, exploring innovative technologies, and a tech enthusiast who enjoys learning and experimenting with new ideas.
+I'm eager to collaborate on new projects where I can contribute and learn. Feel free to check out my projects!
 
 ### Reach me on:
 
